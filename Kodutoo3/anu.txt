@@ -1,0 +1,4 @@
+Õpilase eesnimi: anu
+Õpilase perekonnanimi: sadam
+Õpitav aine: proge
+Kogutud punktide arv: 5
